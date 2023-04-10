@@ -7,8 +7,12 @@ Catch up on my most recent writing [on my blog](https://lethain.com/)!
 
 In addition to my books, some of my writing that's been popular:
 
-* [MIgrations: the sole scalable fix to tech debt](https://lethain.com/migrations/)
+* [Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations/)
 * [Writing an Engineering strategy](https://lethain.com/eng-strategies/)
 * [Productivity in the age of hypergrowth](https://lethain.com/productivity-in-the-age-of-hypergrowth/)
 * [Staff Engineer archetypes](https://staffeng.com/guides/staff-archetypes/)
 * [Work on what matters](https://staffeng.com/guides/work-on-what-matters/)
+
+You can also find me on [Mastodon](https://mastodon.social/@lethain),
+[Twitter](https://twitter.com/Lethain),
+and [LinkedIn](https://linkedin.com/in/will-larson-a44b543).
