@@ -5,7 +5,7 @@ and
 (plus I'm working on my third book now).
 Catch up on my most recent writing [on my blog](https://lethain.com/)!
 
-In addition to my books, some of my writing that's been popular:
+Some of my writing that's been popular:
 
 * [Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations/)
 * [Writing an Engineering strategy](https://lethain.com/eng-strategies/)
