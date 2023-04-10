@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi folks! I'm the author of
+*[Staff Engineer](https://www.amazon.com/dp/B08RMSHYGG)*
+and
+*[An Elegant Puzzle](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)*
+(plus I'm working on my third book now).
+Catch up on my most recent writing [on my blog](https://lethain.com/)!
 
-<!--
-**lethain/lethain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In addition to my books, some of my writing that's been popular:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [MIgrations: the sole scalable fix to tech debt](https://lethain.com/migrations/)
+* [Writing an Engineering strategy](https://lethain.com/eng-strategies/)
+* [Productivity in the age of hypergrowth](https://lethain.com/productivity-in-the-age-of-hypergrowth/)
+* [Staff Engineer archetypes](https://staffeng.com/guides/staff-archetypes/)
+* [Work on what matters](https://staffeng.com/guides/work-on-what-matters/)
