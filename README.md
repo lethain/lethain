@@ -1,8 +1,8 @@
 Hi folks! I'm the author of
-*[Staff Engineer](https://www.amazon.com/dp/B08RMSHYGG)*
+*[The Engineering Executive's Primer](https://www.amazon.com/Engineering-Executives-Primer-Will-Larson-ebook/dp/B0CV4QGPXD/)* (2024),
+*[Staff Engineer](https://www.amazon.com/dp/B08RMSHYGG)* (2021),
 and
-*[An Elegant Puzzle](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)*
-(plus I'm working on my third book now).
+*[An Elegant Puzzle](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)* (2019).
 Catch up on my most recent writing [on my blog](https://lethain.com/)!
 
 Some of my writing that's been popular:
