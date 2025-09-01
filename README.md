@@ -1,4 +1,5 @@
 Hi folks! I'm the author of
+*[Crafting Engineering Strategy](https://www.amazon.com/Crafting-Engineering-Strategy-Thoughtful-Decisions/dp/B0FBRJY116)* (2025),
 *[The Engineering Executive's Primer](https://www.amazon.com/Engineering-Executives-Primer-Will-Larson-ebook/dp/B0CV4QGPXD/)* (2024),
 *[Staff Engineer](https://www.amazon.com/dp/B08RMSHYGG)* (2021),
 and
