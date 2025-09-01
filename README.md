@@ -14,6 +14,4 @@ Some of my writing that's been popular:
 * [Staff Engineer archetypes](https://staffeng.com/guides/staff-archetypes/)
 * [Work on what matters](https://staffeng.com/guides/work-on-what-matters/)
 
-You can also find me on
-[X](https://twitter.com/Lethain),
-and [LinkedIn](https://linkedin.com/in/will-larson-a44b543).
+You can also find me on [LinkedIn](https://linkedin.com/in/will-larson-a44b543).
